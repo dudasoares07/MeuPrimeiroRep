@@ -1,5 +1,11 @@
-# Meu Perfil
+## Meu Perfil
 
-## Maria Eduarda Santos Soares
+### Olá sou a **Maria Eduarda Santos Soares**, e abaixo terá algumass coisas sobre mim
 
-### Estudo Desenvolvimento de Sistemas 
+#### Estudo Desenvolvimento de Sistemas na escola **Senai "Santo Paschoal Crepaldi"** na turma DEV-1A.
+
+#### Minha comida favorita é sushi!
+
+#### Adoro servir e estar envolvida nas coisas da igreja.
+
+#### Pretendo cursar Medicina ou seguir no ramo de T.I, pois
