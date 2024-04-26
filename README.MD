@@ -8,4 +8,4 @@
 
 #### Adoro servir e estar envolvida nas coisas da igreja.
 
-#### Pretendo cursar Medicina ou seguir no ramo de T.I, pois
+#### Pretendo cursar Medicina ou seguir no ramo de T.I 
